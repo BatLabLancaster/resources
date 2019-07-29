@@ -12,15 +12,18 @@ Switches and Basytec: looking from the door, the one on the right (R), the one o
 
 Private network user: BatLab ; Private network password: b@tl@b123
 
+Service account to connect remotely to egb092000001: chem_batlab_svc
+
 BatLab PostgreSQL: b@tl@b
 
 **TeamViewer**
+
 e-mail: chem_batlab_svc@protonmail.com (password as above)
 
 | Computer name/IP  | TeamViewerID | Password  | 
 |-------------------|:------------:|:---------:|
 | Novonix20A | 192.168.0.9 | d7cp12 |
 | Novonix2A   | 192.168.0.8 | d9ir77 |
-| Basytec (R) | 192.168.0.3 | t59k4f |
-| Basytec (L) | 192.168.0.2 | 962rjk |
+| Basytec (R) | 192.168.0.3 | batlab |
+| Basytec (L) | 192.168.0.2 | batlab |
 
