@@ -20,6 +20,9 @@ BatLab PostgreSQL: b@tl@b
 
 e-mail: chem_batlab_svc@protonmail.com (password as above)
 
+TeamViewer only using LAN: https://community.teamviewer.com/t5/Knowledge-Base/Can-TeamViewer-be-used-within-a-local-network-LAN-only/ta-p/4618
+
+
 | Computer name/IP  | TeamViewerID | Password  | 
 |-------------------|:------------:|:---------:|
 | Novonix20A | 192.168.0.9 | d7cp12 |
