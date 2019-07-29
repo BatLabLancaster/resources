@@ -1,4 +1,4 @@
-| **BatLab network** | Portal Computer | Novonix 20A  | Novonix 2A  | Basytec (R) | Basytec (L) | BioLogic   | Julabo     |
+| **BatLab network** | Portal Computer | Novonix 20A  | Novonix 2A  | Basytec (R) | Basytec (L) | BioLogic   | DAQ     |
 |--------------------|:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:----------:|:----------:|
 | **IP**             | 192.168.0.1     | 192.168.0.9  | 192.168.0.8 | 192.168.0.3 | 192.168.0.2 | 192.168.0.5| 192.168.0.6|
 | **Switch port**    |    R1           | R8           | R7          | R3          | R2          | R5         | R6         |
