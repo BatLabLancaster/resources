@@ -11,9 +11,7 @@ More information to be found also in: https://lancaster.app.box.com/notes/441580
 
 Switches and Basytec: looking from the door, the one on the right (R), the one on the left (L).
 
-Private network user: BatLab ; Private network password: b@tl@b123
-
-Service account to connect remotely to egb092000001: chem_batlab_svc
+Service account to connect remotely to egb092000001: chem_batlab_svc (password writen on a post-it the portal computer)
 
 BatLab PostgreSQL: b@tl@b
 
