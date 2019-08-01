@@ -1,4 +1,4 @@
-DEtail information to be found also in: https://lancaster.app.box.com/notes/441580302270
+More information to be found also in: https://lancaster.app.box.com/notes/441580302270
 
 | **BatLab network** | Portal Computer | Novonix 20A  | Novonix 2A  | Basytec (R) | Basytec (L) | BioLogic   | DAQ     |
 |--------------------|:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:----------:|:----------:|
