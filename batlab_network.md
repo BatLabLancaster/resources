@@ -11,9 +11,9 @@ More information to be found also in: https://lancaster.app.box.com/notes/441580
 
 Switches and Basytec: looking from the door, the one on the right (R), the one on the left (L).
 
-Service account to connect remotely to egb092000001: chem_batlab_svc (password writen on a post-it the portal computer)
+The previous service account to connect remotely to egb092000001: chem_batlab_svc (password writen on a post-it the portal computer) is no longer in use. Please use your own lancaster account credentials and password. 
 
-BatLab PostgreSQL: b@tl@b
+Portal Computer/BatLab PostgreSQL: b@tl@b
 
 **TeamViewer**
 
@@ -30,4 +30,4 @@ TeamViewer only using LAN: https://community.teamviewer.com/t5/Knowledge-Base/Ca
 | Basytec (L) | 192.168.0.2 | batlab |
 | Biologic    | 192.168.0.5 | batlab |
 | DAQ         | 192.168.0.6 | batlab |
-
+| Battery Dynamics | 192.168.0.7 | batlab |
